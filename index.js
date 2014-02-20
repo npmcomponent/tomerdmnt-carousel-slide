@@ -1,6 +1,6 @@
-var Carousel = require('carousel')
-  , inherit = require('inherit')
-  , classes = require('classes');
+var Carousel = require('tomerdmnt-carousel')
+  , inherit = require('component-inherit')
+  , classes = require('component-classes');
 
 module.exports = CarouselSlide;
 inherit(CarouselSlide, Carousel);

@@ -1,0 +1,18 @@
+{
+  "name": "tomerdmnt-carousel-slide",
+  "description": "A slide transition for the Carousel component",
+  "version": "0.0.1",
+  "keywords": [
+    "ui",
+    "carousel",
+    "slide"
+  ],
+  "styles": [
+    "carousel-slide.css"
+  ],
+  "dependencies": {
+    "tomerdmnt-carousel": "git://github.com/npmcomponent/tomerdmnt-carousel.git",
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git"
+  }
+}
